@@ -26,7 +26,7 @@ def process_pdf(uploaded_file) -> Tuple[str, List[str]]:
 
     return text, page_texts
 
-# 🔥 This function is now a dummy — preview & annotation fully removed
+# This function is now a dummy — preview & annotation fully removed
 def display_pdf_with_annotations(*args, **kwargs):
     pass
 
